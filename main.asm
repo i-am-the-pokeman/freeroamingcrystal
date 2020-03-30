@@ -462,6 +462,12 @@ SECTION "Pic Animations 2", ROMX
 
 INCLUDE "gfx/pokemon/frame_pointers.asm"
 INCLUDE "gfx/pokemon/kanto_frames.asm"
+INCLUDE "gfx/pokemon/variant_anim_pointers.asm"
+INCLUDE "gfx/pokemon/variant_anims.asm"
+INCLUDE "gfx/pokemon/variant_idle_pointers.asm"
+INCLUDE "gfx/pokemon/variant_idles.asm"
+INCLUDE "gfx/pokemon/variant_bitmask_pointers.asm"
+INCLUDE "gfx/pokemon/variant_bitmasks.asm"
 
 
 SECTION "Font Inversed", ROMX

@@ -23,7 +23,7 @@ AnimationPointers:
 	dw FearowAnimation
 	dw EkansAnimation
 	dw ArbokAnimation
-	dw PikachuAnimation
+	dw -1 ; see PikachuAnimationPointers
 	dw RaichuAnimation
 	dw SandshrewAnimation
 	dw SandslashAnimation

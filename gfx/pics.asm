@@ -204,7 +204,6 @@ SECTION "Pics 9", ROMX
 
 EkansFrontpic:       INCBIN "gfx/pokemon/ekans/front.animated.2bpp.lz"
 SudowoodoFrontpic:   INCBIN "gfx/pokemon/sudowoodo/front.animated.2bpp.lz"
-PikachuFrontpic:     INCBIN "gfx/pokemon/pikachu/front.animated.2bpp.lz"
 SeadraFrontpic:      INCBIN "gfx/pokemon/seadra/front.animated.2bpp.lz"
 MagbyFrontpic:       INCBIN "gfx/pokemon/magby/front.animated.2bpp.lz"
 WeepinbellFrontpic:  INCBIN "gfx/pokemon/weepinbell/front.animated.2bpp.lz"
@@ -437,7 +436,6 @@ EkansBackpic:        INCBIN "gfx/pokemon/ekans/back.2bpp.lz"
 SeakingBackpic:      INCBIN "gfx/pokemon/seaking/back.2bpp.lz"
 BurglarPic:          INCBIN "gfx/trainers/burglar.2bpp.lz"
 PsyduckBackpic:      INCBIN "gfx/pokemon/psyduck/back.2bpp.lz"
-PikachuBackpic:      INCBIN "gfx/pokemon/pikachu/back.2bpp.lz"
 KabutoFrontpic:      INCBIN "gfx/pokemon/kabuto/front.animated.2bpp.lz"
 MareepBackpic:       INCBIN "gfx/pokemon/mareep/back.2bpp.lz"
 RemoraidBackpic:     INCBIN "gfx/pokemon/remoraid/back.2bpp.lz"
@@ -732,3 +730,10 @@ SECTION "Pics 22", ROMX
 SECTION "Pics 23", ROMX
 
 SECTION "Pics 24", ROMX
+
+SECTION "Pikachu Pics", ROMX
+
+PikachuFrontpic:			INCBIN "gfx/pokemon/pikachu/front.animated.2bpp.lz"
+PikachuSurfingFrontpic:		INCBIN "gfx/pokemon/pikachu_surfing/front.2bpp.lz"
+PikachuSurfingBackpic:
+PikachuBackpic:				INCBIN "gfx/pokemon/pikachu/back.2bpp.lz"

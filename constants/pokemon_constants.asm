@@ -312,3 +312,10 @@ NUM_POKEMON EQU const_value + -1
 	const UNOWN_Y ; 25
 	const UNOWN_Z ; 26
 NUM_UNOWN EQU const_value + -1 ; 26
+
+; forms
+
+	const_def 1
+	const PIKACHU_VANILLA
+	const PIKACHU_SURFING
+NUM_PIKACHU_FORMS EQU const_value - 1

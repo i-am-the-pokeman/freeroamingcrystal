@@ -1,0 +1,3 @@
+PikachuAnimationPointers:
+	dw PikachuAnimation
+	dw PikachuSurfingAnimation
